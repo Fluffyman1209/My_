@@ -188,3 +188,6 @@ input{
 li{
     margin: 10px;
 }
+.newlink a:hover{
+    background-color: #2a6868;
+}
